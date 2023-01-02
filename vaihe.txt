@@ -1,0 +1,2 @@
+osa 2
+c) palvelimella olevan datan hakeminen
